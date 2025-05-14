@@ -1,0 +1,1331 @@
+Training model 1/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.30740	validation-ndcg@5:0.29951
+[100]	train-ndcg@5:0.51565	validation-ndcg@5:0.39655
+[197]	train-ndcg@5:0.56239	validation-ndcg@5:0.39797
+validation: 0.39899823791571315, best_it: 167
+Training model 2/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.30736	validation-ndcg@5:0.29948
+[100]	train-ndcg@5:0.51593	validation-ndcg@5:0.39632
+[200]	train-ndcg@5:0.56395	validation-ndcg@5:0.39973
+validation: 0.3997605450113066, best_it: 171
+Training model 3/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.30734	validation-ndcg@5:0.29926
+[100]	train-ndcg@5:0.51496	validation-ndcg@5:0.39692
+[200]	train-ndcg@5:0.56297	validation-ndcg@5:0.39930
+[228]	train-ndcg@5:0.57159	validation-ndcg@5:0.39845
+validation: 0.3993366892722669, best_it: 198
+Training model 4/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.30738	validation-ndcg@5:0.29943
+[100]	train-ndcg@5:0.51604	validation-ndcg@5:0.39523
+[200]	train-ndcg@5:0.56438	validation-ndcg@5:0.39756
+[220]	train-ndcg@5:0.57174	validation-ndcg@5:0.39729
+validation: 0.3977883406303973, best_it: 191
+Training model 5/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.26463	validation-ndcg@5:0.25705
+[100]	train-ndcg@5:0.51806	validation-ndcg@5:0.39593
+[144]	train-ndcg@5:0.54125	validation-ndcg@5:0.39618
+validation: 0.39703407029600657, best_it: 115
+Training model 6/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.26458	validation-ndcg@5:0.25681
+[100]	train-ndcg@5:0.51708	validation-ndcg@5:0.39802
+[200]	train-ndcg@5:0.56802	validation-ndcg@5:0.39993
+[216]	train-ndcg@5:0.57371	validation-ndcg@5:0.39919
+validation: 0.4005851752153008, best_it: 186
+Training model 7/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.26462	validation-ndcg@5:0.25709
+[100]	train-ndcg@5:0.51803	validation-ndcg@5:0.39858
+[132]	train-ndcg@5:0.53412	validation-ndcg@5:0.39836
+validation: 0.39861590482664583, best_it: 102
+Training model 8/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.26463	validation-ndcg@5:0.25685
+[100]	train-ndcg@5:0.51962	validation-ndcg@5:0.39684
+[157]	train-ndcg@5:0.54906	validation-ndcg@5:0.39768
+validation: 0.39802624556342525, best_it: 128
+Training model 9/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.30796	validation-ndcg@5:0.30087
+[100]	train-ndcg@5:0.51303	validation-ndcg@5:0.39532
+[200]	train-ndcg@5:0.56336	validation-ndcg@5:0.39793
+[233]	train-ndcg@5:0.57699	validation-ndcg@5:0.39696
+validation: 0.39822665030909593, best_it: 203
+Training model 10/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.30826	validation-ndcg@5:0.30118
+[100]	train-ndcg@5:0.51501	validation-ndcg@5:0.39491
+[200]	train-ndcg@5:0.56484	validation-ndcg@5:0.39759
+[217]	train-ndcg@5:0.57269	validation-ndcg@5:0.39740
+validation: 0.39788455038578785, best_it: 187
+Training model 11/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.30814	validation-ndcg@5:0.30118
+[100]	train-ndcg@5:0.51437	validation-ndcg@5:0.39453
+[200]	train-ndcg@5:0.56086	validation-ndcg@5:0.39604
+[219]	train-ndcg@5:0.56913	validation-ndcg@5:0.39654
+validation: 0.3966605370684481, best_it: 189
+Training model 12/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.30826	validation-ndcg@5:0.30120
+[100]	train-ndcg@5:0.51535	validation-ndcg@5:0.39300
+[161]	train-ndcg@5:0.54833	validation-ndcg@5:0.39432
+validation: 0.3949176756593859, best_it: 132
+Training model 13/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.26357	validation-ndcg@5:0.25577
+[100]	train-ndcg@5:0.51405	validation-ndcg@5:0.39508
+[200]	train-ndcg@5:0.56304	validation-ndcg@5:0.39716
+[207]	train-ndcg@5:0.56625	validation-ndcg@5:0.39742
+validation: 0.39801218648101966, best_it: 177
+Training model 14/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.26365	validation-ndcg@5:0.25571
+[100]	train-ndcg@5:0.51389	validation-ndcg@5:0.39557
+[200]	train-ndcg@5:0.56362	validation-ndcg@5:0.39843
+[228]	train-ndcg@5:0.57498	validation-ndcg@5:0.39752
+validation: 0.3984503482106582, best_it: 198
+Training model 15/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.26358	validation-ndcg@5:0.25576
+[100]	train-ndcg@5:0.51365	validation-ndcg@5:0.39544
+[200]	train-ndcg@5:0.56067	validation-ndcg@5:0.39654
+[265]	train-ndcg@5:0.58668	validation-ndcg@5:0.39586
+validation: 0.3975930299327424, best_it: 236
+Training model 16/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.26364	validation-ndcg@5:0.25573
+[100]	train-ndcg@5:0.51311	validation-ndcg@5:0.39448
+[164]	train-ndcg@5:0.54699	validation-ndcg@5:0.39548
+validation: 0.3960564521795669, best_it: 134
+Training model 17/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.30740	validation-ndcg@5:0.29951
+[100]	train-ndcg@5:0.51418	validation-ndcg@5:0.39663
+[170]	train-ndcg@5:0.55005	validation-ndcg@5:0.39768
+validation: 0.39785884184027714, best_it: 140
+Training model 18/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.30735	validation-ndcg@5:0.29948
+[100]	train-ndcg@5:0.51641	validation-ndcg@5:0.39666
+[168]	train-ndcg@5:0.54960	validation-ndcg@5:0.39757
+validation: 0.39785396162837744, best_it: 139
+Training model 19/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.30734	validation-ndcg@5:0.29926
+[100]	train-ndcg@5:0.51410	validation-ndcg@5:0.39518
+[200]	train-ndcg@5:0.56380	validation-ndcg@5:0.39686
+[208]	train-ndcg@5:0.56775	validation-ndcg@5:0.39698
+validation: 0.3980690639241052, best_it: 179
+Training model 20/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.30737	validation-ndcg@5:0.29942
+[100]	train-ndcg@5:0.51539	validation-ndcg@5:0.39686
+[200]	train-ndcg@5:0.56469	validation-ndcg@5:0.39883
+[239]	train-ndcg@5:0.57750	validation-ndcg@5:0.39895
+validation: 0.399348016530673, best_it: 210
+Training model 21/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.26463	validation-ndcg@5:0.25705
+[100]	train-ndcg@5:0.51856	validation-ndcg@5:0.39688
+[171]	train-ndcg@5:0.55274	validation-ndcg@5:0.39777
+validation: 0.39882820296208144, best_it: 141
+Training model 22/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.26458	validation-ndcg@5:0.25681
+[100]	train-ndcg@5:0.51871	validation-ndcg@5:0.39652
+[200]	train-ndcg@5:0.56598	validation-ndcg@5:0.39857
+[202]	train-ndcg@5:0.56637	validation-ndcg@5:0.39863
+validation: 0.39945092850130015, best_it: 172
+Training model 23/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.26462	validation-ndcg@5:0.25709
+[100]	train-ndcg@5:0.51783	validation-ndcg@5:0.39701
+[200]	train-ndcg@5:0.56415	validation-ndcg@5:0.39871
+[214]	train-ndcg@5:0.56895	validation-ndcg@5:0.39879
+validation: 0.399498211950306, best_it: 185
+Training model 24/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.26463	validation-ndcg@5:0.25685
+[100]	train-ndcg@5:0.51863	validation-ndcg@5:0.39510
+[195]	train-ndcg@5:0.56297	validation-ndcg@5:0.39775
+validation: 0.3981927674313707, best_it: 166
+Training model 25/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.30796	validation-ndcg@5:0.30087
+[100]	train-ndcg@5:0.51350	validation-ndcg@5:0.39662
+[160]	train-ndcg@5:0.54622	validation-ndcg@5:0.39601
+validation: 0.3969729428925937, best_it: 130
+Training model 26/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.30826	validation-ndcg@5:0.30118
+[100]	train-ndcg@5:0.51329	validation-ndcg@5:0.39436
+[164]	train-ndcg@5:0.54736	validation-ndcg@5:0.39715
+validation: 0.39751368068427967, best_it: 134
+Training model 27/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.30814	validation-ndcg@5:0.30118
+[100]	train-ndcg@5:0.51266	validation-ndcg@5:0.39514
+[163]	train-ndcg@5:0.54488	validation-ndcg@5:0.39525
+validation: 0.3962796035811548, best_it: 133
+Training model 28/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.30826	validation-ndcg@5:0.30120
+[100]	train-ndcg@5:0.51472	validation-ndcg@5:0.39502
+[167]	train-ndcg@5:0.55005	validation-ndcg@5:0.39825
+validation: 0.3982602352332045, best_it: 138
+Training model 29/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.26357	validation-ndcg@5:0.25577
+[100]	train-ndcg@5:0.51406	validation-ndcg@5:0.39430
+[186]	train-ndcg@5:0.55723	validation-ndcg@5:0.39694
+validation: 0.3977843428621637, best_it: 157
+Training model 30/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.26365	validation-ndcg@5:0.25571
+[100]	train-ndcg@5:0.51450	validation-ndcg@5:0.39627
+[168]	train-ndcg@5:0.54921	validation-ndcg@5:0.39814
+validation: 0.3981542954404664, best_it: 138
+Training model 31/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.26358	validation-ndcg@5:0.25576
+[100]	train-ndcg@5:0.51177	validation-ndcg@5:0.39656
+[195]	train-ndcg@5:0.55773	validation-ndcg@5:0.39836
+validation: 0.39849981112373833, best_it: 165
+Training model 32/192 with params: {'max_depth': 8, 'min_child_weight': 10, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.26364	validation-ndcg@5:0.25573
+[100]	train-ndcg@5:0.51332	validation-ndcg@5:0.39525
+[159]	train-ndcg@5:0.54642	validation-ndcg@5:0.39684
+validation: 0.397353768801913, best_it: 130
+Training model 33/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.30730	validation-ndcg@5:0.29929
+[100]	train-ndcg@5:0.51510	validation-ndcg@5:0.39468
+[198]	train-ndcg@5:0.56334	validation-ndcg@5:0.39721
+validation: 0.3975712863731593, best_it: 168
+Training model 34/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.30728	validation-ndcg@5:0.29929
+[100]	train-ndcg@5:0.51794	validation-ndcg@5:0.39728
+[176]	train-ndcg@5:0.56045	validation-ndcg@5:0.39807
+validation: 0.3986369585534934, best_it: 146
+Training model 35/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.30729	validation-ndcg@5:0.29927
+[100]	train-ndcg@5:0.51742	validation-ndcg@5:0.39615
+[200]	train-ndcg@5:0.56123	validation-ndcg@5:0.39816
+[232]	train-ndcg@5:0.57307	validation-ndcg@5:0.39877
+validation: 0.39882325215880515, best_it: 203
+Training model 36/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.30729	validation-ndcg@5:0.29926
+[100]	train-ndcg@5:0.51780	validation-ndcg@5:0.39537
+[139]	train-ndcg@5:0.53927	validation-ndcg@5:0.39655
+validation: 0.3965801430555028, best_it: 110
+Training model 37/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.26466	validation-ndcg@5:0.25705
+[100]	train-ndcg@5:0.51739	validation-ndcg@5:0.39583
+[152]	train-ndcg@5:0.54436	validation-ndcg@5:0.39683
+validation: 0.3973436949483947, best_it: 123
+Training model 38/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.26465	validation-ndcg@5:0.25683
+[100]	train-ndcg@5:0.52109	validation-ndcg@5:0.39604
+[138]	train-ndcg@5:0.54276	validation-ndcg@5:0.39699
+validation: 0.397498083913121, best_it: 109
+Training model 39/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.26465	validation-ndcg@5:0.25711
+[100]	train-ndcg@5:0.51930	validation-ndcg@5:0.39598
+[183]	train-ndcg@5:0.55738	validation-ndcg@5:0.39835
+validation: 0.3992342762140745, best_it: 153
+Training model 40/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.26466	validation-ndcg@5:0.25686
+[100]	train-ndcg@5:0.52047	validation-ndcg@5:0.39611
+[200]	train-ndcg@5:0.56335	validation-ndcg@5:0.39620
+[215]	train-ndcg@5:0.57170	validation-ndcg@5:0.39679
+validation: 0.3976213875068774, best_it: 186
+Training model 41/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.30792	validation-ndcg@5:0.30090
+[100]	train-ndcg@5:0.51561	validation-ndcg@5:0.39623
+[186]	train-ndcg@5:0.55988	validation-ndcg@5:0.39754
+validation: 0.39878596033380265, best_it: 156
+Training model 42/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.30828	validation-ndcg@5:0.30129
+[100]	train-ndcg@5:0.51518	validation-ndcg@5:0.39468
+[191]	train-ndcg@5:0.56450	validation-ndcg@5:0.39684
+validation: 0.39740957239088953, best_it: 161
+Training model 43/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.30796	validation-ndcg@5:0.30103
+[100]	train-ndcg@5:0.51535	validation-ndcg@5:0.39496
+[182]	train-ndcg@5:0.55516	validation-ndcg@5:0.39614
+validation: 0.3969695143396522, best_it: 152
+Training model 44/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.30829	validation-ndcg@5:0.30139
+[100]	train-ndcg@5:0.51659	validation-ndcg@5:0.39343
+[200]	train-ndcg@5:0.56642	validation-ndcg@5:0.39513
+[210]	train-ndcg@5:0.57021	validation-ndcg@5:0.39528
+validation: 0.39574545836713465, best_it: 180
+Training model 45/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.26375	validation-ndcg@5:0.25581
+[100]	train-ndcg@5:0.51598	validation-ndcg@5:0.39537
+[160]	train-ndcg@5:0.54905	validation-ndcg@5:0.39584
+validation: 0.39662837515849314, best_it: 130
+Training model 46/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.26385	validation-ndcg@5:0.25567
+[100]	train-ndcg@5:0.51642	validation-ndcg@5:0.39478
+[191]	train-ndcg@5:0.56073	validation-ndcg@5:0.39707
+validation: 0.3974080799192193, best_it: 162
+Training model 47/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.26379	validation-ndcg@5:0.25585
+[100]	train-ndcg@5:0.51338	validation-ndcg@5:0.39574
+[177]	train-ndcg@5:0.55397	validation-ndcg@5:0.39674
+validation: 0.3974858363154413, best_it: 148
+Training model 48/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.26382	validation-ndcg@5:0.25571
+[100]	train-ndcg@5:0.51784	validation-ndcg@5:0.39566
+[192]	train-ndcg@5:0.56559	validation-ndcg@5:0.39660
+validation: 0.39799646538252387, best_it: 162
+Training model 49/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.30730	validation-ndcg@5:0.29931
+[100]	train-ndcg@5:0.51575	validation-ndcg@5:0.39556
+[174]	train-ndcg@5:0.55172	validation-ndcg@5:0.39735
+validation: 0.39749439060234193, best_it: 145
+Training model 50/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.30728	validation-ndcg@5:0.29933
+[100]	train-ndcg@5:0.51686	validation-ndcg@5:0.39728
+[165]	train-ndcg@5:0.55120	validation-ndcg@5:0.39820
+validation: 0.39851700835461873, best_it: 136
+Training model 51/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.30729	validation-ndcg@5:0.29927
+[100]	train-ndcg@5:0.51741	validation-ndcg@5:0.39605
+[189]	train-ndcg@5:0.55938	validation-ndcg@5:0.39725
+validation: 0.3975718115613129, best_it: 159
+Training model 52/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.30729	validation-ndcg@5:0.29929
+[100]	train-ndcg@5:0.51700	validation-ndcg@5:0.39549
+[200]	train-ndcg@5:0.56554	validation-ndcg@5:0.39843
+[225]	train-ndcg@5:0.57698	validation-ndcg@5:0.39824
+validation: 0.39886975827033305, best_it: 196
+Training model 53/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.26465	validation-ndcg@5:0.25704
+[100]	train-ndcg@5:0.51937	validation-ndcg@5:0.39603
+[185]	train-ndcg@5:0.55945	validation-ndcg@5:0.39751
+validation: 0.3981077489869889, best_it: 156
+Training model 54/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.26463	validation-ndcg@5:0.25683
+[100]	train-ndcg@5:0.52044	validation-ndcg@5:0.39629
+[123]	train-ndcg@5:0.53460	validation-ndcg@5:0.39645
+validation: 0.396631336315155, best_it: 94
+Training model 55/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.26465	validation-ndcg@5:0.25711
+[100]	train-ndcg@5:0.51809	validation-ndcg@5:0.39432
+[178]	train-ndcg@5:0.55660	validation-ndcg@5:0.39584
+validation: 0.39604624060302196, best_it: 149
+Training model 56/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.26464	validation-ndcg@5:0.25686
+[100]	train-ndcg@5:0.51875	validation-ndcg@5:0.39684
+[191]	train-ndcg@5:0.56471	validation-ndcg@5:0.39880
+validation: 0.3993208570857485, best_it: 162
+Training model 57/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.30792	validation-ndcg@5:0.30090
+[100]	train-ndcg@5:0.51522	validation-ndcg@5:0.39513
+[200]	train-ndcg@5:0.56364	validation-ndcg@5:0.39770
+[218]	train-ndcg@5:0.57272	validation-ndcg@5:0.39730
+validation: 0.3983234091938656, best_it: 188
+Training model 58/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.30828	validation-ndcg@5:0.30129
+[100]	train-ndcg@5:0.51859	validation-ndcg@5:0.39645
+[196]	train-ndcg@5:0.56585	validation-ndcg@5:0.39778
+validation: 0.39833791770001803, best_it: 167
+Training model 59/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.30796	validation-ndcg@5:0.30103
+[100]	train-ndcg@5:0.51422	validation-ndcg@5:0.39536
+[200]	train-ndcg@5:0.56354	validation-ndcg@5:0.39686
+[219]	train-ndcg@5:0.57051	validation-ndcg@5:0.39652
+validation: 0.3971245749097054, best_it: 189
+Training model 60/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.30829	validation-ndcg@5:0.30139
+[100]	train-ndcg@5:0.51496	validation-ndcg@5:0.39465
+[163]	train-ndcg@5:0.55083	validation-ndcg@5:0.39619
+validation: 0.3967227738322651, best_it: 134
+Training model 61/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.26375	validation-ndcg@5:0.25581
+[100]	train-ndcg@5:0.51460	validation-ndcg@5:0.39491
+[167]	train-ndcg@5:0.55042	validation-ndcg@5:0.39624
+validation: 0.39655867430166475, best_it: 138
+Training model 62/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.26385	validation-ndcg@5:0.25567
+[100]	train-ndcg@5:0.51777	validation-ndcg@5:0.39453
+[198]	train-ndcg@5:0.56703	validation-ndcg@5:0.39588
+validation: 0.3961821654343913, best_it: 169
+Training model 63/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.26379	validation-ndcg@5:0.25585
+[100]	train-ndcg@5:0.51490	validation-ndcg@5:0.39444
+[190]	train-ndcg@5:0.55862	validation-ndcg@5:0.39606
+validation: 0.39647525756447205, best_it: 161
+Training model 64/192 with params: {'max_depth': 8, 'min_child_weight': 5, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.26382	validation-ndcg@5:0.25571
+[100]	train-ndcg@5:0.51810	validation-ndcg@5:0.39678
+[125]	train-ndcg@5:0.53296	validation-ndcg@5:0.39693
+validation: 0.3971272380616788, best_it: 96
+Training model 65/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.28149	validation-ndcg@5:0.28015
+[100]	train-ndcg@5:0.44137	validation-ndcg@5:0.39387
+[200]	train-ndcg@5:0.46909	validation-ndcg@5:0.39910
+[300]	train-ndcg@5:0.49154	validation-ndcg@5:0.40055
+[306]	train-ndcg@5:0.49257	validation-ndcg@5:0.40038
+validation: 0.40079540944075426, best_it: 276
+Training model 66/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.28149	validation-ndcg@5:0.28017
+[100]	train-ndcg@5:0.44142	validation-ndcg@5:0.39364
+[200]	train-ndcg@5:0.47023	validation-ndcg@5:0.39866
+[259]	train-ndcg@5:0.48403	validation-ndcg@5:0.39903
+validation: 0.3991608848030331, best_it: 230
+Training model 67/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.28149	validation-ndcg@5:0.28015
+[100]	train-ndcg@5:0.44052	validation-ndcg@5:0.39408
+[200]	train-ndcg@5:0.47048	validation-ndcg@5:0.39912
+[271]	train-ndcg@5:0.48645	validation-ndcg@5:0.39990
+validation: 0.40030158635698004, best_it: 241
+Training model 68/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.28149	validation-ndcg@5:0.28017
+[100]	train-ndcg@5:0.44130	validation-ndcg@5:0.39403
+[200]	train-ndcg@5:0.47116	validation-ndcg@5:0.39897
+[260]	train-ndcg@5:0.48537	validation-ndcg@5:0.40018
+validation: 0.4002234075367329, best_it: 230
+Training model 69/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.25111	validation-ndcg@5:0.24832
+[100]	train-ndcg@5:0.44116	validation-ndcg@5:0.39433
+[200]	train-ndcg@5:0.46980	validation-ndcg@5:0.39864
+[264]	train-ndcg@5:0.48444	validation-ndcg@5:0.40022
+validation: 0.4011448375352322, best_it: 235
+Training model 70/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.25108	validation-ndcg@5:0.24829
+[100]	train-ndcg@5:0.44097	validation-ndcg@5:0.39398
+[200]	train-ndcg@5:0.46904	validation-ndcg@5:0.39932
+[300]	train-ndcg@5:0.49111	validation-ndcg@5:0.40199
+[330]	train-ndcg@5:0.49782	validation-ndcg@5:0.40153
+validation: 0.40198602056617705, best_it: 300
+Training model 71/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.25111	validation-ndcg@5:0.24832
+[100]	train-ndcg@5:0.44176	validation-ndcg@5:0.39361
+[200]	train-ndcg@5:0.47000	validation-ndcg@5:0.39910
+[300]	train-ndcg@5:0.48970	validation-ndcg@5:0.40084
+[330]	train-ndcg@5:0.49519	validation-ndcg@5:0.40029
+validation: 0.4008388612572964, best_it: 300
+Training model 72/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.25110	validation-ndcg@5:0.24826
+[100]	train-ndcg@5:0.44159	validation-ndcg@5:0.39397
+[200]	train-ndcg@5:0.47039	validation-ndcg@5:0.39873
+[293]	train-ndcg@5:0.49164	validation-ndcg@5:0.40088
+validation: 0.401260531998717, best_it: 263
+Training model 73/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.28176	validation-ndcg@5:0.28155
+[100]	train-ndcg@5:0.44038	validation-ndcg@5:0.39455
+[200]	train-ndcg@5:0.46942	validation-ndcg@5:0.39783
+[220]	train-ndcg@5:0.47474	validation-ndcg@5:0.39808
+validation: 0.398272101015805, best_it: 191
+Training model 74/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.28186	validation-ndcg@5:0.28161
+[100]	train-ndcg@5:0.44090	validation-ndcg@5:0.39415
+[200]	train-ndcg@5:0.46969	validation-ndcg@5:0.39837
+[300]	train-ndcg@5:0.49287	validation-ndcg@5:0.40087
+[391]	train-ndcg@5:0.51065	validation-ndcg@5:0.40127
+validation: 0.40179593948558495, best_it: 362
+Training model 75/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.28176	validation-ndcg@5:0.28155
+[100]	train-ndcg@5:0.43988	validation-ndcg@5:0.39372
+[200]	train-ndcg@5:0.46992	validation-ndcg@5:0.39866
+[300]	train-ndcg@5:0.49179	validation-ndcg@5:0.40044
+[333]	train-ndcg@5:0.49837	validation-ndcg@5:0.39999
+validation: 0.40074001096721124, best_it: 304
+Training model 76/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.28186	validation-ndcg@5:0.28161
+[100]	train-ndcg@5:0.44107	validation-ndcg@5:0.39352
+[200]	train-ndcg@5:0.47013	validation-ndcg@5:0.39954
+[300]	train-ndcg@5:0.49308	validation-ndcg@5:0.40117
+[345]	train-ndcg@5:0.50269	validation-ndcg@5:0.40113
+validation: 0.40143086392434213, best_it: 316
+Training model 77/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.25182	validation-ndcg@5:0.24793
+[100]	train-ndcg@5:0.43980	validation-ndcg@5:0.39321
+[200]	train-ndcg@5:0.46896	validation-ndcg@5:0.39875
+[274]	train-ndcg@5:0.48529	validation-ndcg@5:0.39951
+validation: 0.3998750711845906, best_it: 245
+Training model 78/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.25175	validation-ndcg@5:0.24782
+[100]	train-ndcg@5:0.44014	validation-ndcg@5:0.39290
+[200]	train-ndcg@5:0.47005	validation-ndcg@5:0.39852
+[300]	train-ndcg@5:0.49216	validation-ndcg@5:0.40094
+[332]	train-ndcg@5:0.49865	validation-ndcg@5:0.40105
+validation: 0.4011113987207994, best_it: 303
+Training model 79/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.25181	validation-ndcg@5:0.24790
+[100]	train-ndcg@5:0.44022	validation-ndcg@5:0.39352
+[200]	train-ndcg@5:0.46882	validation-ndcg@5:0.39861
+[294]	train-ndcg@5:0.48907	validation-ndcg@5:0.39977
+validation: 0.4004659328315088, best_it: 265
+Training model 80/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.25176	validation-ndcg@5:0.24781
+[100]	train-ndcg@5:0.43949	validation-ndcg@5:0.39314
+[200]	train-ndcg@5:0.46933	validation-ndcg@5:0.39892
+[283]	train-ndcg@5:0.48759	validation-ndcg@5:0.39962
+validation: 0.40030485395906834, best_it: 254
+Training model 81/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.28149	validation-ndcg@5:0.28015
+[100]	train-ndcg@5:0.44066	validation-ndcg@5:0.39313
+[200]	train-ndcg@5:0.47096	validation-ndcg@5:0.39837
+[259]	train-ndcg@5:0.48410	validation-ndcg@5:0.39985
+validation: 0.4000258709977008, best_it: 230
+Training model 82/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.28149	validation-ndcg@5:0.28017
+[100]	train-ndcg@5:0.44058	validation-ndcg@5:0.39433
+[200]	train-ndcg@5:0.47022	validation-ndcg@5:0.39897
+[300]	train-ndcg@5:0.49255	validation-ndcg@5:0.40114
+[387]	train-ndcg@5:0.50970	validation-ndcg@5:0.40186
+validation: 0.4022243687084805, best_it: 357
+Training model 83/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.28149	validation-ndcg@5:0.28015
+[100]	train-ndcg@5:0.44129	validation-ndcg@5:0.39440
+[200]	train-ndcg@5:0.47161	validation-ndcg@5:0.39958
+[300]	train-ndcg@5:0.49383	validation-ndcg@5:0.40091
+[392]	train-ndcg@5:0.51079	validation-ndcg@5:0.40210
+validation: 0.4023938159780587, best_it: 363
+Training model 84/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.28149	validation-ndcg@5:0.28017
+[100]	train-ndcg@5:0.44134	validation-ndcg@5:0.39280
+[200]	train-ndcg@5:0.47091	validation-ndcg@5:0.39837
+[259]	train-ndcg@5:0.48385	validation-ndcg@5:0.39910
+validation: 0.39948749482480933, best_it: 230
+Training model 85/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.25111	validation-ndcg@5:0.24832
+[100]	train-ndcg@5:0.44133	validation-ndcg@5:0.39486
+[200]	train-ndcg@5:0.47062	validation-ndcg@5:0.40034
+[240]	train-ndcg@5:0.47986	validation-ndcg@5:0.39992
+validation: 0.4006103995069212, best_it: 211
+Training model 86/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.25108	validation-ndcg@5:0.24829
+[100]	train-ndcg@5:0.44079	validation-ndcg@5:0.39329
+[200]	train-ndcg@5:0.47006	validation-ndcg@5:0.39867
+[300]	train-ndcg@5:0.49208	validation-ndcg@5:0.40112
+[332]	train-ndcg@5:0.49785	validation-ndcg@5:0.40111
+validation: 0.40144459787601733, best_it: 303
+Training model 87/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.25111	validation-ndcg@5:0.24832
+[100]	train-ndcg@5:0.44168	validation-ndcg@5:0.39483
+[200]	train-ndcg@5:0.47095	validation-ndcg@5:0.39859
+[300]	train-ndcg@5:0.49175	validation-ndcg@5:0.40095
+[389]	train-ndcg@5:0.50784	validation-ndcg@5:0.40143
+validation: 0.4020156862484572, best_it: 359
+Training model 88/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.25110	validation-ndcg@5:0.24826
+[100]	train-ndcg@5:0.44097	validation-ndcg@5:0.39451
+[200]	train-ndcg@5:0.47070	validation-ndcg@5:0.39814
+[300]	train-ndcg@5:0.49091	validation-ndcg@5:0.39989
+[354]	train-ndcg@5:0.50138	validation-ndcg@5:0.40040
+validation: 0.40058379214918094, best_it: 325
+Training model 89/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.28176	validation-ndcg@5:0.28155
+[100]	train-ndcg@5:0.44065	validation-ndcg@5:0.39413
+[200]	train-ndcg@5:0.47040	validation-ndcg@5:0.39949
+[248]	train-ndcg@5:0.48086	validation-ndcg@5:0.40061
+validation: 0.4009005759512625, best_it: 219
+Training model 90/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.28186	validation-ndcg@5:0.28161
+[100]	train-ndcg@5:0.44056	validation-ndcg@5:0.39473
+[200]	train-ndcg@5:0.47027	validation-ndcg@5:0.40006
+[300]	train-ndcg@5:0.49296	validation-ndcg@5:0.40120
+[400]	train-ndcg@5:0.51256	validation-ndcg@5:0.40159
+[408]	train-ndcg@5:0.51444	validation-ndcg@5:0.40159
+validation: 0.4021107153673182, best_it: 379
+Training model 91/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.28176	validation-ndcg@5:0.28155
+[100]	train-ndcg@5:0.44078	validation-ndcg@5:0.39480
+[200]	train-ndcg@5:0.46974	validation-ndcg@5:0.40019
+[246]	train-ndcg@5:0.48085	validation-ndcg@5:0.40061
+validation: 0.40093580107417187, best_it: 217
+Training model 92/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.28186	validation-ndcg@5:0.28161
+[100]	train-ndcg@5:0.44137	validation-ndcg@5:0.39237
+[200]	train-ndcg@5:0.47114	validation-ndcg@5:0.39812
+[300]	train-ndcg@5:0.49398	validation-ndcg@5:0.40150
+[306]	train-ndcg@5:0.49534	validation-ndcg@5:0.40116
+validation: 0.4016054430667224, best_it: 277
+Training model 93/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.25182	validation-ndcg@5:0.24793
+[100]	train-ndcg@5:0.43978	validation-ndcg@5:0.39304
+[200]	train-ndcg@5:0.46886	validation-ndcg@5:0.39846
+[282]	train-ndcg@5:0.48773	validation-ndcg@5:0.39971
+validation: 0.4002966995866845, best_it: 253
+Training model 94/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.25175	validation-ndcg@5:0.24782
+[100]	train-ndcg@5:0.44001	validation-ndcg@5:0.39268
+[200]	train-ndcg@5:0.47091	validation-ndcg@5:0.39771
+[300]	train-ndcg@5:0.49353	validation-ndcg@5:0.40014
+[381]	train-ndcg@5:0.50927	validation-ndcg@5:0.40149
+validation: 0.40177065710968857, best_it: 352
+Training model 95/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.25181	validation-ndcg@5:0.24790
+[100]	train-ndcg@5:0.44002	validation-ndcg@5:0.39304
+[200]	train-ndcg@5:0.46830	validation-ndcg@5:0.39815
+[256]	train-ndcg@5:0.48145	validation-ndcg@5:0.39789
+validation: 0.3989245004403053, best_it: 227
+Training model 96/192 with params: {'max_depth': 6, 'min_child_weight': 10, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.25176	validation-ndcg@5:0.24781
+[100]	train-ndcg@5:0.44045	validation-ndcg@5:0.39322
+[200]	train-ndcg@5:0.47100	validation-ndcg@5:0.39902
+[225]	train-ndcg@5:0.47716	validation-ndcg@5:0.39965
+validation: 0.3996710287289154, best_it: 195
+Training model 97/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.28149	validation-ndcg@5:0.28015
+[100]	train-ndcg@5:0.44149	validation-ndcg@5:0.39530
+[179]	train-ndcg@5:0.46595	validation-ndcg@5:0.39762
+validation: 0.3982623580551674, best_it: 150
+Training model 98/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.28149	validation-ndcg@5:0.28017
+[100]	train-ndcg@5:0.44201	validation-ndcg@5:0.39380
+[200]	train-ndcg@5:0.47230	validation-ndcg@5:0.39967
+[240]	train-ndcg@5:0.48161	validation-ndcg@5:0.40005
+validation: 0.4005564865630785, best_it: 211
+Training model 99/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.28149	validation-ndcg@5:0.28015
+[100]	train-ndcg@5:0.44028	validation-ndcg@5:0.39490
+[200]	train-ndcg@5:0.46975	validation-ndcg@5:0.39907
+[270]	train-ndcg@5:0.48571	validation-ndcg@5:0.40026
+validation: 0.40044010963271964, best_it: 240
+Training model 100/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.28149	validation-ndcg@5:0.28017
+[100]	train-ndcg@5:0.44239	validation-ndcg@5:0.39405
+[200]	train-ndcg@5:0.47251	validation-ndcg@5:0.39941
+[300]	train-ndcg@5:0.49493	validation-ndcg@5:0.40143
+[309]	train-ndcg@5:0.49671	validation-ndcg@5:0.40140
+validation: 0.4014761313667322, best_it: 280
+Training model 101/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.25111	validation-ndcg@5:0.24832
+[100]	train-ndcg@5:0.44192	validation-ndcg@5:0.39374
+[200]	train-ndcg@5:0.47097	validation-ndcg@5:0.39935
+[300]	train-ndcg@5:0.49211	validation-ndcg@5:0.40095
+[324]	train-ndcg@5:0.49652	validation-ndcg@5:0.40122
+validation: 0.4013169332009182, best_it: 295
+Training model 102/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.25108	validation-ndcg@5:0.24829
+[100]	train-ndcg@5:0.44170	validation-ndcg@5:0.39423
+[200]	train-ndcg@5:0.47068	validation-ndcg@5:0.39879
+[300]	train-ndcg@5:0.49355	validation-ndcg@5:0.40153
+[371]	train-ndcg@5:0.50775	validation-ndcg@5:0.40225
+validation: 0.40265852693416687, best_it: 342
+Training model 103/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.25111	validation-ndcg@5:0.24832
+[100]	train-ndcg@5:0.44155	validation-ndcg@5:0.39355
+[200]	train-ndcg@5:0.47132	validation-ndcg@5:0.39943
+[300]	train-ndcg@5:0.49366	validation-ndcg@5:0.40271
+[352]	train-ndcg@5:0.50290	validation-ndcg@5:0.40245
+validation: 0.4028980120924863, best_it: 322
+Training model 104/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.25110	validation-ndcg@5:0.24826
+[100]	train-ndcg@5:0.44098	validation-ndcg@5:0.39402
+[200]	train-ndcg@5:0.47166	validation-ndcg@5:0.39979
+[243]	train-ndcg@5:0.48227	validation-ndcg@5:0.40013
+validation: 0.4008391837342093, best_it: 213
+Training model 105/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.28176	validation-ndcg@5:0.28155
+[100]	train-ndcg@5:0.44149	validation-ndcg@5:0.39371
+[200]	train-ndcg@5:0.47144	validation-ndcg@5:0.39879
+[300]	train-ndcg@5:0.49336	validation-ndcg@5:0.40031
+[313]	train-ndcg@5:0.49592	validation-ndcg@5:0.40003
+validation: 0.40057377925432497, best_it: 283
+Training model 106/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.28186	validation-ndcg@5:0.28161
+[100]	train-ndcg@5:0.44099	validation-ndcg@5:0.39547
+[200]	train-ndcg@5:0.47091	validation-ndcg@5:0.40015
+[269]	train-ndcg@5:0.48789	validation-ndcg@5:0.40111
+validation: 0.40152626225337756, best_it: 240
+Training model 107/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.28176	validation-ndcg@5:0.28155
+[100]	train-ndcg@5:0.44003	validation-ndcg@5:0.39480
+[200]	train-ndcg@5:0.46965	validation-ndcg@5:0.40059
+[241]	train-ndcg@5:0.48002	validation-ndcg@5:0.40053
+validation: 0.4008927520310642, best_it: 212
+Training model 108/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.28186	validation-ndcg@5:0.28161
+[100]	train-ndcg@5:0.44052	validation-ndcg@5:0.39404
+[200]	train-ndcg@5:0.47156	validation-ndcg@5:0.39873
+[248]	train-ndcg@5:0.48324	validation-ndcg@5:0.39853
+validation: 0.3988318134728235, best_it: 219
+Training model 109/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.25182	validation-ndcg@5:0.24793
+[100]	train-ndcg@5:0.44001	validation-ndcg@5:0.39393
+[200]	train-ndcg@5:0.47003	validation-ndcg@5:0.39807
+[300]	train-ndcg@5:0.49305	validation-ndcg@5:0.40186
+[329]	train-ndcg@5:0.49851	validation-ndcg@5:0.40122
+validation: 0.4019205766407901, best_it: 299
+Training model 110/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.25175	validation-ndcg@5:0.24782
+[100]	train-ndcg@5:0.44024	validation-ndcg@5:0.39417
+[200]	train-ndcg@5:0.47072	validation-ndcg@5:0.39855
+[300]	train-ndcg@5:0.49345	validation-ndcg@5:0.40024
+[395]	train-ndcg@5:0.51097	validation-ndcg@5:0.40104
+validation: 0.40176033130581845, best_it: 365
+Training model 111/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.25181	validation-ndcg@5:0.24790
+[100]	train-ndcg@5:0.44103	validation-ndcg@5:0.39292
+[200]	train-ndcg@5:0.47029	validation-ndcg@5:0.39785
+[300]	train-ndcg@5:0.49300	validation-ndcg@5:0.40086
+[400]	train-ndcg@5:0.51101	validation-ndcg@5:0.40204
+[416]	train-ndcg@5:0.51371	validation-ndcg@5:0.40164
+validation: 0.4024193726882798, best_it: 387
+Training model 112/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.25176	validation-ndcg@5:0.24781
+[100]	train-ndcg@5:0.44053	validation-ndcg@5:0.39400
+[200]	train-ndcg@5:0.47062	validation-ndcg@5:0.39845
+[300]	train-ndcg@5:0.49310	validation-ndcg@5:0.40108
+[335]	train-ndcg@5:0.49978	validation-ndcg@5:0.40060
+validation: 0.4012946402001924, best_it: 305
+Training model 113/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.28149	validation-ndcg@5:0.28015
+[100]	train-ndcg@5:0.44091	validation-ndcg@5:0.39398
+[200]	train-ndcg@5:0.47076	validation-ndcg@5:0.39840
+[300]	train-ndcg@5:0.49338	validation-ndcg@5:0.40044
+[400]	train-ndcg@5:0.51094	validation-ndcg@5:0.40069
+[402]	train-ndcg@5:0.51114	validation-ndcg@5:0.40064
+validation: 0.4012044038725794, best_it: 373
+Training model 114/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.28149	validation-ndcg@5:0.28017
+[100]	train-ndcg@5:0.44126	validation-ndcg@5:0.39322
+[200]	train-ndcg@5:0.47017	validation-ndcg@5:0.39795
+[300]	train-ndcg@5:0.49203	validation-ndcg@5:0.39954
+[400]	train-ndcg@5:0.51191	validation-ndcg@5:0.40162
+[480]	train-ndcg@5:0.52540	validation-ndcg@5:0.40236
+validation: 0.40275562601663395, best_it: 451
+Training model 115/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.28149	validation-ndcg@5:0.28015
+[100]	train-ndcg@5:0.44129	validation-ndcg@5:0.39416
+[200]	train-ndcg@5:0.47036	validation-ndcg@5:0.40063
+[300]	train-ndcg@5:0.49137	validation-ndcg@5:0.40150
+[380]	train-ndcg@5:0.50719	validation-ndcg@5:0.40217
+validation: 0.4027271788968343, best_it: 350
+Training model 116/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.28149	validation-ndcg@5:0.28017
+[100]	train-ndcg@5:0.44153	validation-ndcg@5:0.39357
+[200]	train-ndcg@5:0.47187	validation-ndcg@5:0.39872
+[266]	train-ndcg@5:0.48778	validation-ndcg@5:0.39968
+validation: 0.3997703478522694, best_it: 237
+Training model 117/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.25111	validation-ndcg@5:0.24832
+[100]	train-ndcg@5:0.44219	validation-ndcg@5:0.39456
+[200]	train-ndcg@5:0.47087	validation-ndcg@5:0.39946
+[300]	train-ndcg@5:0.49311	validation-ndcg@5:0.40225
+[362]	train-ndcg@5:0.50349	validation-ndcg@5:0.40202
+validation: 0.4027368674162676, best_it: 333
+Training model 118/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.25108	validation-ndcg@5:0.24829
+[100]	train-ndcg@5:0.44216	validation-ndcg@5:0.39416
+[200]	train-ndcg@5:0.47116	validation-ndcg@5:0.40016
+[300]	train-ndcg@5:0.49389	validation-ndcg@5:0.40204
+[332]	train-ndcg@5:0.50000	validation-ndcg@5:0.40195
+validation: 0.40222310235426373, best_it: 302
+Training model 119/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.25111	validation-ndcg@5:0.24832
+[100]	train-ndcg@5:0.44149	validation-ndcg@5:0.39344
+[200]	train-ndcg@5:0.47083	validation-ndcg@5:0.39955
+[300]	train-ndcg@5:0.49253	validation-ndcg@5:0.40040
+[336]	train-ndcg@5:0.49911	validation-ndcg@5:0.40013
+validation: 0.40057821429366247, best_it: 306
+Training model 120/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.25110	validation-ndcg@5:0.24826
+[100]	train-ndcg@5:0.44202	validation-ndcg@5:0.39355
+[200]	train-ndcg@5:0.47067	validation-ndcg@5:0.39827
+[300]	train-ndcg@5:0.49298	validation-ndcg@5:0.39985
+[347]	train-ndcg@5:0.50141	validation-ndcg@5:0.39993
+validation: 0.4003229550113821, best_it: 318
+Training model 121/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.28176	validation-ndcg@5:0.28155
+[100]	train-ndcg@5:0.44089	validation-ndcg@5:0.39349
+[200]	train-ndcg@5:0.47070	validation-ndcg@5:0.39756
+[300]	train-ndcg@5:0.49390	validation-ndcg@5:0.39988
+[400]	train-ndcg@5:0.51312	validation-ndcg@5:0.40079
+[444]	train-ndcg@5:0.52113	validation-ndcg@5:0.40019
+validation: 0.4009542865511765, best_it: 414
+Training model 122/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.28186	validation-ndcg@5:0.28161
+[100]	train-ndcg@5:0.43992	validation-ndcg@5:0.39445
+[200]	train-ndcg@5:0.47050	validation-ndcg@5:0.39980
+[300]	train-ndcg@5:0.49399	validation-ndcg@5:0.40210
+[357]	train-ndcg@5:0.50524	validation-ndcg@5:0.40325
+validation: 0.4036288187419152, best_it: 327
+Training model 123/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.28176	validation-ndcg@5:0.28155
+[100]	train-ndcg@5:0.44011	validation-ndcg@5:0.39412
+[200]	train-ndcg@5:0.47092	validation-ndcg@5:0.39854
+[300]	train-ndcg@5:0.49329	validation-ndcg@5:0.40113
+[332]	train-ndcg@5:0.49973	validation-ndcg@5:0.40079
+validation: 0.4013600204739487, best_it: 303
+Training model 124/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.28186	validation-ndcg@5:0.28161
+[100]	train-ndcg@5:0.44070	validation-ndcg@5:0.39506
+[200]	train-ndcg@5:0.47078	validation-ndcg@5:0.39878
+[300]	train-ndcg@5:0.49475	validation-ndcg@5:0.40041
+[400]	train-ndcg@5:0.51508	validation-ndcg@5:0.40107
+[463]	train-ndcg@5:0.52624	validation-ndcg@5:0.40099
+validation: 0.4017259714843879, best_it: 433
+Training model 125/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.25182	validation-ndcg@5:0.24793
+[100]	train-ndcg@5:0.44021	validation-ndcg@5:0.39236
+[200]	train-ndcg@5:0.46951	validation-ndcg@5:0.39826
+[300]	train-ndcg@5:0.49163	validation-ndcg@5:0.40222
+[330]	train-ndcg@5:0.49818	validation-ndcg@5:0.40178
+validation: 0.40246718911110857, best_it: 301
+Training model 126/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.25175	validation-ndcg@5:0.24782
+[100]	train-ndcg@5:0.43980	validation-ndcg@5:0.39341
+[200]	train-ndcg@5:0.47027	validation-ndcg@5:0.39759
+[300]	train-ndcg@5:0.49240	validation-ndcg@5:0.39910
+[309]	train-ndcg@5:0.49416	validation-ndcg@5:0.39968
+validation: 0.3998566970787183, best_it: 280
+Training model 127/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.25181	validation-ndcg@5:0.24790
+[100]	train-ndcg@5:0.44061	validation-ndcg@5:0.39331
+[200]	train-ndcg@5:0.47008	validation-ndcg@5:0.39940
+[290]	train-ndcg@5:0.48990	validation-ndcg@5:0.40065
+validation: 0.40114962773179735, best_it: 261
+Training model 128/192 with params: {'max_depth': 6, 'min_child_weight': 5, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.25176	validation-ndcg@5:0.24781
+[100]	train-ndcg@5:0.44058	validation-ndcg@5:0.39464
+[200]	train-ndcg@5:0.47011	validation-ndcg@5:0.39879
+[300]	train-ndcg@5:0.49260	validation-ndcg@5:0.40032
+[400]	train-ndcg@5:0.51324	validation-ndcg@5:0.40202
+[421]	train-ndcg@5:0.51730	validation-ndcg@5:0.40189
+validation: 0.4021863032803807, best_it: 392
+Training model 129/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.26020	validation-ndcg@5:0.25917
+[100]	train-ndcg@5:0.40256	validation-ndcg@5:0.38558
+[200]	train-ndcg@5:0.41822	validation-ndcg@5:0.39260
+[300]	train-ndcg@5:0.42870	validation-ndcg@5:0.39570
+[400]	train-ndcg@5:0.43780	validation-ndcg@5:0.39763
+[500]	train-ndcg@5:0.44559	validation-ndcg@5:0.39943
+[526]	train-ndcg@5:0.44740	validation-ndcg@5:0.39905
+validation: 0.39949017128394787, best_it: 497
+Training model 130/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.26020	validation-ndcg@5:0.25917
+[100]	train-ndcg@5:0.40295	validation-ndcg@5:0.38512
+[200]	train-ndcg@5:0.41830	validation-ndcg@5:0.39276
+[300]	train-ndcg@5:0.42890	validation-ndcg@5:0.39630
+[400]	train-ndcg@5:0.43796	validation-ndcg@5:0.39837
+[500]	train-ndcg@5:0.44618	validation-ndcg@5:0.40024
+[600]	train-ndcg@5:0.45300	validation-ndcg@5:0.40193
+[644]	train-ndcg@5:0.45622	validation-ndcg@5:0.40214
+validation: 0.4025623853511835, best_it: 614
+Training model 131/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.26020	validation-ndcg@5:0.25917
+[100]	train-ndcg@5:0.40364	validation-ndcg@5:0.38637
+[200]	train-ndcg@5:0.41828	validation-ndcg@5:0.39306
+[300]	train-ndcg@5:0.42878	validation-ndcg@5:0.39595
+[400]	train-ndcg@5:0.43770	validation-ndcg@5:0.39805
+[419]	train-ndcg@5:0.43912	validation-ndcg@5:0.39801
+validation: 0.39839474187917134, best_it: 389
+Training model 132/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.26020	validation-ndcg@5:0.25917
+[100]	train-ndcg@5:0.40329	validation-ndcg@5:0.38684
+[200]	train-ndcg@5:0.41757	validation-ndcg@5:0.39298
+[300]	train-ndcg@5:0.42826	validation-ndcg@5:0.39603
+[400]	train-ndcg@5:0.43758	validation-ndcg@5:0.39919
+[467]	train-ndcg@5:0.44251	validation-ndcg@5:0.39958
+validation: 0.39978543536748934, best_it: 437
+Training model 133/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.22485	validation-ndcg@5:0.22485
+[100]	train-ndcg@5:0.40265	validation-ndcg@5:0.38664
+[200]	train-ndcg@5:0.41738	validation-ndcg@5:0.39386
+[300]	train-ndcg@5:0.42810	validation-ndcg@5:0.39771
+[400]	train-ndcg@5:0.43711	validation-ndcg@5:0.39988
+[500]	train-ndcg@5:0.44488	validation-ndcg@5:0.40097
+[575]	train-ndcg@5:0.45062	validation-ndcg@5:0.40158
+validation: 0.40200204933481154, best_it: 545
+Training model 134/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.22485	validation-ndcg@5:0.22485
+[100]	train-ndcg@5:0.40287	validation-ndcg@5:0.38721
+[200]	train-ndcg@5:0.41742	validation-ndcg@5:0.39393
+[300]	train-ndcg@5:0.42814	validation-ndcg@5:0.39727
+[400]	train-ndcg@5:0.43681	validation-ndcg@5:0.39881
+[409]	train-ndcg@5:0.43760	validation-ndcg@5:0.39913
+validation: 0.399134886937843, best_it: 379
+Training model 135/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.22485	validation-ndcg@5:0.22485
+[100]	train-ndcg@5:0.40312	validation-ndcg@5:0.38762
+[200]	train-ndcg@5:0.41739	validation-ndcg@5:0.39443
+[300]	train-ndcg@5:0.42854	validation-ndcg@5:0.39738
+[400]	train-ndcg@5:0.43721	validation-ndcg@5:0.39919
+[500]	train-ndcg@5:0.44533	validation-ndcg@5:0.40091
+[600]	train-ndcg@5:0.45277	validation-ndcg@5:0.40225
+[629]	train-ndcg@5:0.45458	validation-ndcg@5:0.40178
+validation: 0.4022485082959698, best_it: 600
+Training model 136/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.22485	validation-ndcg@5:0.22485
+[100]	train-ndcg@5:0.40260	validation-ndcg@5:0.38703
+[200]	train-ndcg@5:0.41732	validation-ndcg@5:0.39383
+[300]	train-ndcg@5:0.42793	validation-ndcg@5:0.39652
+[332]	train-ndcg@5:0.43089	validation-ndcg@5:0.39670
+validation: 0.39683906973398436, best_it: 303
+Training model 137/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.25947	validation-ndcg@5:0.25874
+[100]	train-ndcg@5:0.40237	validation-ndcg@5:0.38593
+[200]	train-ndcg@5:0.41737	validation-ndcg@5:0.39265
+[300]	train-ndcg@5:0.42821	validation-ndcg@5:0.39634
+[400]	train-ndcg@5:0.43743	validation-ndcg@5:0.39796
+[500]	train-ndcg@5:0.44556	validation-ndcg@5:0.39969
+[509]	train-ndcg@5:0.44627	validation-ndcg@5:0.39991
+validation: 0.40002784174403305, best_it: 479
+Training model 138/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.25947	validation-ndcg@5:0.25874
+[100]	train-ndcg@5:0.40301	validation-ndcg@5:0.38549
+[200]	train-ndcg@5:0.41789	validation-ndcg@5:0.39240
+[300]	train-ndcg@5:0.42843	validation-ndcg@5:0.39586
+[400]	train-ndcg@5:0.43741	validation-ndcg@5:0.39771
+[500]	train-ndcg@5:0.44539	validation-ndcg@5:0.39941
+[600]	train-ndcg@5:0.45292	validation-ndcg@5:0.40097
+[640]	train-ndcg@5:0.45573	validation-ndcg@5:0.40141
+validation: 0.4016460749299259, best_it: 611
+Training model 139/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.25947	validation-ndcg@5:0.25874
+[100]	train-ndcg@5:0.40309	validation-ndcg@5:0.38579
+[200]	train-ndcg@5:0.41746	validation-ndcg@5:0.39235
+[300]	train-ndcg@5:0.42835	validation-ndcg@5:0.39577
+[400]	train-ndcg@5:0.43821	validation-ndcg@5:0.39830
+[500]	train-ndcg@5:0.44629	validation-ndcg@5:0.40022
+[580]	train-ndcg@5:0.45191	validation-ndcg@5:0.40125
+validation: 0.4013593874476007, best_it: 551
+Training model 140/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.25947	validation-ndcg@5:0.25874
+[100]	train-ndcg@5:0.40258	validation-ndcg@5:0.38566
+[200]	train-ndcg@5:0.41757	validation-ndcg@5:0.39274
+[300]	train-ndcg@5:0.42850	validation-ndcg@5:0.39553
+[400]	train-ndcg@5:0.43789	validation-ndcg@5:0.39879
+[500]	train-ndcg@5:0.44598	validation-ndcg@5:0.40033
+[600]	train-ndcg@5:0.45328	validation-ndcg@5:0.40192
+[700]	train-ndcg@5:0.45986	validation-ndcg@5:0.40259
+[732]	train-ndcg@5:0.46219	validation-ndcg@5:0.40268
+validation: 0.4028461153839661, best_it: 702
+Training model 141/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.22434	validation-ndcg@5:0.22486
+[100]	train-ndcg@5:0.40185	validation-ndcg@5:0.38664
+[200]	train-ndcg@5:0.41717	validation-ndcg@5:0.39334
+[300]	train-ndcg@5:0.42778	validation-ndcg@5:0.39611
+[400]	train-ndcg@5:0.43651	validation-ndcg@5:0.39869
+[500]	train-ndcg@5:0.44449	validation-ndcg@5:0.40019
+[556]	train-ndcg@5:0.44896	validation-ndcg@5:0.40035
+validation: 0.40083145784987745, best_it: 527
+Training model 142/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.22434	validation-ndcg@5:0.22486
+[100]	train-ndcg@5:0.40310	validation-ndcg@5:0.38656
+[200]	train-ndcg@5:0.41772	validation-ndcg@5:0.39300
+[300]	train-ndcg@5:0.42842	validation-ndcg@5:0.39711
+[400]	train-ndcg@5:0.43736	validation-ndcg@5:0.39901
+[470]	train-ndcg@5:0.44231	validation-ndcg@5:0.39940
+validation: 0.3996445079781253, best_it: 440
+Training model 143/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.22434	validation-ndcg@5:0.22486
+[100]	train-ndcg@5:0.40299	validation-ndcg@5:0.38723
+[200]	train-ndcg@5:0.41706	validation-ndcg@5:0.39342
+[300]	train-ndcg@5:0.42759	validation-ndcg@5:0.39706
+[400]	train-ndcg@5:0.43693	validation-ndcg@5:0.39957
+[500]	train-ndcg@5:0.44507	validation-ndcg@5:0.40095
+[600]	train-ndcg@5:0.45218	validation-ndcg@5:0.40186
+[700]	train-ndcg@5:0.45877	validation-ndcg@5:0.40247
+[707]	train-ndcg@5:0.45920	validation-ndcg@5:0.40244
+validation: 0.40276215752407574, best_it: 678
+Training model 144/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.22434	validation-ndcg@5:0.22486
+[100]	train-ndcg@5:0.40268	validation-ndcg@5:0.38668
+[200]	train-ndcg@5:0.41765	validation-ndcg@5:0.39312
+[300]	train-ndcg@5:0.42821	validation-ndcg@5:0.39549
+[400]	train-ndcg@5:0.43707	validation-ndcg@5:0.39792
+[500]	train-ndcg@5:0.44515	validation-ndcg@5:0.39959
+[600]	train-ndcg@5:0.45239	validation-ndcg@5:0.40084
+[654]	train-ndcg@5:0.45587	validation-ndcg@5:0.40147
+validation: 0.4016083480168643, best_it: 625
+Training model 145/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.26020	validation-ndcg@5:0.25917
+[100]	train-ndcg@5:0.40256	validation-ndcg@5:0.38558
+[200]	train-ndcg@5:0.41785	validation-ndcg@5:0.39216
+[300]	train-ndcg@5:0.42889	validation-ndcg@5:0.39583
+[400]	train-ndcg@5:0.43783	validation-ndcg@5:0.39788
+[500]	train-ndcg@5:0.44546	validation-ndcg@5:0.39927
+[598]	train-ndcg@5:0.45315	validation-ndcg@5:0.40092
+validation: 0.4013368525627143, best_it: 568
+Training model 146/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.26020	validation-ndcg@5:0.25917
+[100]	train-ndcg@5:0.40295	validation-ndcg@5:0.38512
+[200]	train-ndcg@5:0.41802	validation-ndcg@5:0.39274
+[300]	train-ndcg@5:0.42883	validation-ndcg@5:0.39631
+[400]	train-ndcg@5:0.43769	validation-ndcg@5:0.39810
+[500]	train-ndcg@5:0.44530	validation-ndcg@5:0.40014
+[600]	train-ndcg@5:0.45279	validation-ndcg@5:0.40162
+[638]	train-ndcg@5:0.45546	validation-ndcg@5:0.40165
+validation: 0.40195765153835644, best_it: 609
+Training model 147/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.26020	validation-ndcg@5:0.25917
+[100]	train-ndcg@5:0.40364	validation-ndcg@5:0.38637
+[200]	train-ndcg@5:0.41839	validation-ndcg@5:0.39265
+[300]	train-ndcg@5:0.42883	validation-ndcg@5:0.39635
+[400]	train-ndcg@5:0.43809	validation-ndcg@5:0.39901
+[500]	train-ndcg@5:0.44613	validation-ndcg@5:0.40028
+[600]	train-ndcg@5:0.45363	validation-ndcg@5:0.40182
+[605]	train-ndcg@5:0.45406	validation-ndcg@5:0.40182
+validation: 0.402239325381136, best_it: 575
+Training model 148/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.26020	validation-ndcg@5:0.25917
+[100]	train-ndcg@5:0.40329	validation-ndcg@5:0.38684
+[200]	train-ndcg@5:0.41773	validation-ndcg@5:0.39386
+[300]	train-ndcg@5:0.42832	validation-ndcg@5:0.39772
+[334]	train-ndcg@5:0.43155	validation-ndcg@5:0.39747
+validation: 0.39797523794759027, best_it: 304
+Training model 149/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.22485	validation-ndcg@5:0.22485
+[100]	train-ndcg@5:0.40265	validation-ndcg@5:0.38664
+[200]	train-ndcg@5:0.41728	validation-ndcg@5:0.39388
+[300]	train-ndcg@5:0.42801	validation-ndcg@5:0.39661
+[357]	train-ndcg@5:0.43317	validation-ndcg@5:0.39711
+validation: 0.3973163979131625, best_it: 328
+Training model 150/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.22485	validation-ndcg@5:0.22485
+[100]	train-ndcg@5:0.40287	validation-ndcg@5:0.38721
+[200]	train-ndcg@5:0.41739	validation-ndcg@5:0.39398
+[300]	train-ndcg@5:0.42792	validation-ndcg@5:0.39699
+[400]	train-ndcg@5:0.43732	validation-ndcg@5:0.39837
+[450]	train-ndcg@5:0.44125	validation-ndcg@5:0.39944
+validation: 0.39955155025443406, best_it: 421
+Training model 151/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.22485	validation-ndcg@5:0.22485
+[100]	train-ndcg@5:0.40312	validation-ndcg@5:0.38762
+[200]	train-ndcg@5:0.41746	validation-ndcg@5:0.39379
+[300]	train-ndcg@5:0.42800	validation-ndcg@5:0.39705
+[400]	train-ndcg@5:0.43723	validation-ndcg@5:0.39852
+[500]	train-ndcg@5:0.44504	validation-ndcg@5:0.39998
+[600]	train-ndcg@5:0.45217	validation-ndcg@5:0.40063
+[612]	train-ndcg@5:0.45293	validation-ndcg@5:0.40097
+validation: 0.4011808650010751, best_it: 583
+Training model 152/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.22485	validation-ndcg@5:0.22485
+[100]	train-ndcg@5:0.40260	validation-ndcg@5:0.38703
+[200]	train-ndcg@5:0.41753	validation-ndcg@5:0.39373
+[300]	train-ndcg@5:0.42748	validation-ndcg@5:0.39729
+[400]	train-ndcg@5:0.43703	validation-ndcg@5:0.39859
+[500]	train-ndcg@5:0.44461	validation-ndcg@5:0.39946
+[511]	train-ndcg@5:0.44557	validation-ndcg@5:0.39968
+validation: 0.399837652366749, best_it: 482
+Training model 153/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.25947	validation-ndcg@5:0.25874
+[100]	train-ndcg@5:0.40237	validation-ndcg@5:0.38593
+[200]	train-ndcg@5:0.41741	validation-ndcg@5:0.39283
+[300]	train-ndcg@5:0.42861	validation-ndcg@5:0.39575
+[400]	train-ndcg@5:0.43738	validation-ndcg@5:0.39857
+[500]	train-ndcg@5:0.44544	validation-ndcg@5:0.39974
+[600]	train-ndcg@5:0.45278	validation-ndcg@5:0.40172
+[630]	train-ndcg@5:0.45538	validation-ndcg@5:0.40131
+validation: 0.4019162745230932, best_it: 601
+Training model 154/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.25947	validation-ndcg@5:0.25874
+[100]	train-ndcg@5:0.40301	validation-ndcg@5:0.38549
+[200]	train-ndcg@5:0.41705	validation-ndcg@5:0.39127
+[300]	train-ndcg@5:0.42799	validation-ndcg@5:0.39434
+[400]	train-ndcg@5:0.43698	validation-ndcg@5:0.39744
+[500]	train-ndcg@5:0.44542	validation-ndcg@5:0.39907
+[575]	train-ndcg@5:0.45101	validation-ndcg@5:0.40012
+validation: 0.40044803347281643, best_it: 546
+Training model 155/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.25947	validation-ndcg@5:0.25874
+[100]	train-ndcg@5:0.40309	validation-ndcg@5:0.38579
+[200]	train-ndcg@5:0.41746	validation-ndcg@5:0.39257
+[300]	train-ndcg@5:0.42810	validation-ndcg@5:0.39613
+[400]	train-ndcg@5:0.43751	validation-ndcg@5:0.39857
+[500]	train-ndcg@5:0.44556	validation-ndcg@5:0.40056
+[543]	train-ndcg@5:0.44892	validation-ndcg@5:0.40025
+validation: 0.40089699999489053, best_it: 513
+Training model 156/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.25947	validation-ndcg@5:0.25874
+[100]	train-ndcg@5:0.40258	validation-ndcg@5:0.38566
+[200]	train-ndcg@5:0.41757	validation-ndcg@5:0.39275
+[300]	train-ndcg@5:0.42802	validation-ndcg@5:0.39588
+[400]	train-ndcg@5:0.43742	validation-ndcg@5:0.39773
+[467]	train-ndcg@5:0.44288	validation-ndcg@5:0.39894
+validation: 0.39900321196572136, best_it: 437
+Training model 157/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.22434	validation-ndcg@5:0.22486
+[100]	train-ndcg@5:0.40185	validation-ndcg@5:0.38664
+[200]	train-ndcg@5:0.41772	validation-ndcg@5:0.39428
+[300]	train-ndcg@5:0.42839	validation-ndcg@5:0.39661
+[400]	train-ndcg@5:0.43748	validation-ndcg@5:0.39838
+[500]	train-ndcg@5:0.44530	validation-ndcg@5:0.40068
+[600]	train-ndcg@5:0.45254	validation-ndcg@5:0.40193
+[634]	train-ndcg@5:0.45439	validation-ndcg@5:0.40140
+validation: 0.40225229743568297, best_it: 605
+Training model 158/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.22434	validation-ndcg@5:0.22486
+[100]	train-ndcg@5:0.40310	validation-ndcg@5:0.38656
+[200]	train-ndcg@5:0.41773	validation-ndcg@5:0.39276
+[300]	train-ndcg@5:0.42812	validation-ndcg@5:0.39635
+[364]	train-ndcg@5:0.43381	validation-ndcg@5:0.39727
+validation: 0.3973423002900016, best_it: 334
+Training model 159/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.22434	validation-ndcg@5:0.22486
+[100]	train-ndcg@5:0.40315	validation-ndcg@5:0.38713
+[200]	train-ndcg@5:0.41728	validation-ndcg@5:0.39335
+[300]	train-ndcg@5:0.42787	validation-ndcg@5:0.39615
+[400]	train-ndcg@5:0.43696	validation-ndcg@5:0.39878
+[495]	train-ndcg@5:0.44471	validation-ndcg@5:0.39968
+validation: 0.3999481654087178, best_it: 465
+Training model 160/192 with params: {'max_depth': 4, 'min_child_weight': 10, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.22434	validation-ndcg@5:0.22486
+[100]	train-ndcg@5:0.40268	validation-ndcg@5:0.38668
+[200]	train-ndcg@5:0.41781	validation-ndcg@5:0.39291
+[300]	train-ndcg@5:0.42843	validation-ndcg@5:0.39656
+[400]	train-ndcg@5:0.43750	validation-ndcg@5:0.40002
+[500]	train-ndcg@5:0.44544	validation-ndcg@5:0.40086
+[511]	train-ndcg@5:0.44619	validation-ndcg@5:0.40074
+validation: 0.4009167228309384, best_it: 481
+Training model 161/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.26020	validation-ndcg@5:0.25917
+[100]	train-ndcg@5:0.40252	validation-ndcg@5:0.38552
+[200]	train-ndcg@5:0.41809	validation-ndcg@5:0.39218
+[300]	train-ndcg@5:0.42860	validation-ndcg@5:0.39590
+[400]	train-ndcg@5:0.43759	validation-ndcg@5:0.39753
+[500]	train-ndcg@5:0.44568	validation-ndcg@5:0.40027
+[533]	train-ndcg@5:0.44827	validation-ndcg@5:0.39986
+validation: 0.4002984068310174, best_it: 503
+Training model 162/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.26020	validation-ndcg@5:0.25917
+[100]	train-ndcg@5:0.40366	validation-ndcg@5:0.38580
+[200]	train-ndcg@5:0.41806	validation-ndcg@5:0.39258
+[300]	train-ndcg@5:0.42931	validation-ndcg@5:0.39525
+[400]	train-ndcg@5:0.43811	validation-ndcg@5:0.39835
+[500]	train-ndcg@5:0.44599	validation-ndcg@5:0.39954
+[549]	train-ndcg@5:0.44954	validation-ndcg@5:0.40002
+validation: 0.40034897586592816, best_it: 519
+Training model 163/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.26020	validation-ndcg@5:0.25917
+[100]	train-ndcg@5:0.40322	validation-ndcg@5:0.38582
+[200]	train-ndcg@5:0.41757	validation-ndcg@5:0.39212
+[300]	train-ndcg@5:0.42889	validation-ndcg@5:0.39640
+[378]	train-ndcg@5:0.43568	validation-ndcg@5:0.39810
+validation: 0.3985145668605835, best_it: 349
+Training model 164/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.26020	validation-ndcg@5:0.25917
+[100]	train-ndcg@5:0.40304	validation-ndcg@5:0.38623
+[200]	train-ndcg@5:0.41810	validation-ndcg@5:0.39323
+[300]	train-ndcg@5:0.42817	validation-ndcg@5:0.39621
+[400]	train-ndcg@5:0.43767	validation-ndcg@5:0.39979
+[439]	train-ndcg@5:0.44097	validation-ndcg@5:0.39972
+validation: 0.3998680931171181, best_it: 410
+Training model 165/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.22485	validation-ndcg@5:0.22485
+[100]	train-ndcg@5:0.40244	validation-ndcg@5:0.38679
+[200]	train-ndcg@5:0.41742	validation-ndcg@5:0.39365
+[300]	train-ndcg@5:0.42830	validation-ndcg@5:0.39689
+[400]	train-ndcg@5:0.43653	validation-ndcg@5:0.39814
+[402]	train-ndcg@5:0.43671	validation-ndcg@5:0.39837
+validation: 0.39869878293550554, best_it: 372
+Training model 166/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.22485	validation-ndcg@5:0.22485
+[100]	train-ndcg@5:0.40211	validation-ndcg@5:0.38684
+[200]	train-ndcg@5:0.41682	validation-ndcg@5:0.39331
+[300]	train-ndcg@5:0.42822	validation-ndcg@5:0.39765
+[400]	train-ndcg@5:0.43723	validation-ndcg@5:0.39939
+[500]	train-ndcg@5:0.44515	validation-ndcg@5:0.40083
+[600]	train-ndcg@5:0.45249	validation-ndcg@5:0.40241
+[604]	train-ndcg@5:0.45259	validation-ndcg@5:0.40235
+validation: 0.4025855791460532, best_it: 574
+Training model 167/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.22485	validation-ndcg@5:0.22485
+[100]	train-ndcg@5:0.40298	validation-ndcg@5:0.38761
+[200]	train-ndcg@5:0.41792	validation-ndcg@5:0.39465
+[300]	train-ndcg@5:0.42868	validation-ndcg@5:0.39796
+[339]	train-ndcg@5:0.43203	validation-ndcg@5:0.39883
+validation: 0.3989490817137496, best_it: 310
+Training model 168/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 0, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.22485	validation-ndcg@5:0.22485
+[100]	train-ndcg@5:0.40260	validation-ndcg@5:0.38705
+[200]	train-ndcg@5:0.41753	validation-ndcg@5:0.39246
+[300]	train-ndcg@5:0.42794	validation-ndcg@5:0.39606
+[400]	train-ndcg@5:0.43694	validation-ndcg@5:0.39792
+[404]	train-ndcg@5:0.43738	validation-ndcg@5:0.39809
+validation: 0.39827035568534885, best_it: 375
+Training model 169/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.25947	validation-ndcg@5:0.25874
+[100]	train-ndcg@5:0.40274	validation-ndcg@5:0.38651
+[200]	train-ndcg@5:0.41767	validation-ndcg@5:0.39291
+[300]	train-ndcg@5:0.42866	validation-ndcg@5:0.39661
+[400]	train-ndcg@5:0.43771	validation-ndcg@5:0.39888
+[500]	train-ndcg@5:0.44591	validation-ndcg@5:0.40077
+[600]	train-ndcg@5:0.45306	validation-ndcg@5:0.40158
+[657]	train-ndcg@5:0.45719	validation-ndcg@5:0.40162
+validation: 0.40208998373053645, best_it: 628
+Training model 170/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.25947	validation-ndcg@5:0.25874
+[100]	train-ndcg@5:0.40261	validation-ndcg@5:0.38576
+[200]	train-ndcg@5:0.41783	validation-ndcg@5:0.39274
+[300]	train-ndcg@5:0.42870	validation-ndcg@5:0.39650
+[344]	train-ndcg@5:0.43292	validation-ndcg@5:0.39689
+validation: 0.3973771086664456, best_it: 315
+Training model 171/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.25947	validation-ndcg@5:0.25874
+[100]	train-ndcg@5:0.40360	validation-ndcg@5:0.38623
+[200]	train-ndcg@5:0.41838	validation-ndcg@5:0.39235
+[300]	train-ndcg@5:0.42920	validation-ndcg@5:0.39569
+[400]	train-ndcg@5:0.43860	validation-ndcg@5:0.39790
+[500]	train-ndcg@5:0.44641	validation-ndcg@5:0.40041
+[531]	train-ndcg@5:0.44865	validation-ndcg@5:0.39986
+validation: 0.40045492514858094, best_it: 501
+Training model 172/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.25947	validation-ndcg@5:0.25874
+[100]	train-ndcg@5:0.40345	validation-ndcg@5:0.38652
+[200]	train-ndcg@5:0.41755	validation-ndcg@5:0.39335
+[300]	train-ndcg@5:0.42821	validation-ndcg@5:0.39646
+[400]	train-ndcg@5:0.43745	validation-ndcg@5:0.39841
+[442]	train-ndcg@5:0.44135	validation-ndcg@5:0.39862
+validation: 0.39889733866705873, best_it: 413
+Training model 173/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.22434	validation-ndcg@5:0.22486
+[100]	train-ndcg@5:0.40272	validation-ndcg@5:0.38711
+[200]	train-ndcg@5:0.41731	validation-ndcg@5:0.39344
+[300]	train-ndcg@5:0.42762	validation-ndcg@5:0.39623
+[400]	train-ndcg@5:0.43694	validation-ndcg@5:0.39899
+[500]	train-ndcg@5:0.44496	validation-ndcg@5:0.40058
+[525]	train-ndcg@5:0.44662	validation-ndcg@5:0.40079
+validation: 0.4008292109028047, best_it: 496
+Training model 174/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.22434	validation-ndcg@5:0.22486
+[100]	train-ndcg@5:0.40303	validation-ndcg@5:0.38648
+[200]	train-ndcg@5:0.41759	validation-ndcg@5:0.39347
+[300]	train-ndcg@5:0.42829	validation-ndcg@5:0.39670
+[400]	train-ndcg@5:0.43734	validation-ndcg@5:0.39834
+[500]	train-ndcg@5:0.44517	validation-ndcg@5:0.40007
+[600]	train-ndcg@5:0.45243	validation-ndcg@5:0.40158
+[700]	train-ndcg@5:0.45919	validation-ndcg@5:0.40264
+[719]	train-ndcg@5:0.46057	validation-ndcg@5:0.40284
+validation: 0.4029474151246589, best_it: 690
+Training model 175/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.22434	validation-ndcg@5:0.22486
+[100]	train-ndcg@5:0.40232	validation-ndcg@5:0.38713
+[200]	train-ndcg@5:0.41667	validation-ndcg@5:0.39359
+[250]	train-ndcg@5:0.42201	validation-ndcg@5:0.39467
+validation: 0.39493902249559465, best_it: 220
+Training model 176/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 0, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.22434	validation-ndcg@5:0.22486
+[100]	train-ndcg@5:0.40306	validation-ndcg@5:0.38629
+[200]	train-ndcg@5:0.41812	validation-ndcg@5:0.39334
+[300]	train-ndcg@5:0.42822	validation-ndcg@5:0.39670
+[400]	train-ndcg@5:0.43752	validation-ndcg@5:0.39907
+[454]	train-ndcg@5:0.44144	validation-ndcg@5:0.39971
+validation: 0.39985747396124854, best_it: 425
+Training model 177/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.26020	validation-ndcg@5:0.25917
+[100]	train-ndcg@5:0.40252	validation-ndcg@5:0.38552
+[200]	train-ndcg@5:0.41802	validation-ndcg@5:0.39190
+[300]	train-ndcg@5:0.42882	validation-ndcg@5:0.39541
+[400]	train-ndcg@5:0.43749	validation-ndcg@5:0.39797
+[500]	train-ndcg@5:0.44519	validation-ndcg@5:0.39918
+[504]	train-ndcg@5:0.44551	validation-ndcg@5:0.39922
+validation: 0.39946139348054144, best_it: 474
+Training model 178/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.26020	validation-ndcg@5:0.25917
+[100]	train-ndcg@5:0.40366	validation-ndcg@5:0.38580
+[200]	train-ndcg@5:0.41806	validation-ndcg@5:0.39258
+[300]	train-ndcg@5:0.42881	validation-ndcg@5:0.39554
+[400]	train-ndcg@5:0.43798	validation-ndcg@5:0.39870
+[474]	train-ndcg@5:0.44347	validation-ndcg@5:0.39960
+validation: 0.39966726371312866, best_it: 444
+Training model 179/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.26020	validation-ndcg@5:0.25917
+[100]	train-ndcg@5:0.40303	validation-ndcg@5:0.38506
+[200]	train-ndcg@5:0.41779	validation-ndcg@5:0.39177
+[300]	train-ndcg@5:0.42887	validation-ndcg@5:0.39608
+[389]	train-ndcg@5:0.43732	validation-ndcg@5:0.39719
+validation: 0.39742831495990866, best_it: 359
+Training model 180/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.26020	validation-ndcg@5:0.25917
+[100]	train-ndcg@5:0.40304	validation-ndcg@5:0.38623
+[200]	train-ndcg@5:0.41762	validation-ndcg@5:0.39314
+[300]	train-ndcg@5:0.42845	validation-ndcg@5:0.39765
+[344]	train-ndcg@5:0.43260	validation-ndcg@5:0.39774
+validation: 0.39787084708407316, best_it: 314
+Training model 181/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.22485	validation-ndcg@5:0.22485
+[100]	train-ndcg@5:0.40244	validation-ndcg@5:0.38679
+[200]	train-ndcg@5:0.41699	validation-ndcg@5:0.39343
+[300]	train-ndcg@5:0.42797	validation-ndcg@5:0.39636
+[400]	train-ndcg@5:0.43693	validation-ndcg@5:0.39830
+[408]	train-ndcg@5:0.43742	validation-ndcg@5:0.39855
+validation: 0.3985973364044479, best_it: 378
+Training model 182/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.22485	validation-ndcg@5:0.22485
+[100]	train-ndcg@5:0.40211	validation-ndcg@5:0.38684
+[200]	train-ndcg@5:0.41708	validation-ndcg@5:0.39299
+[300]	train-ndcg@5:0.42798	validation-ndcg@5:0.39662
+[400]	train-ndcg@5:0.43728	validation-ndcg@5:0.39960
+[500]	train-ndcg@5:0.44490	validation-ndcg@5:0.40086
+[563]	train-ndcg@5:0.44945	validation-ndcg@5:0.40087
+validation: 0.4012154532234005, best_it: 534
+Training model 183/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.22485	validation-ndcg@5:0.22485
+[100]	train-ndcg@5:0.40298	validation-ndcg@5:0.38761
+[200]	train-ndcg@5:0.41845	validation-ndcg@5:0.39466
+[300]	train-ndcg@5:0.42843	validation-ndcg@5:0.39774
+[400]	train-ndcg@5:0.43707	validation-ndcg@5:0.39997
+[500]	train-ndcg@5:0.44477	validation-ndcg@5:0.40127
+[600]	train-ndcg@5:0.45158	validation-ndcg@5:0.40265
+[662]	train-ndcg@5:0.45637	validation-ndcg@5:0.40281
+validation: 0.4030910869123395, best_it: 633
+Training model 184/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 1, 'subsample': 1, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.22485	validation-ndcg@5:0.22485
+[100]	train-ndcg@5:0.40260	validation-ndcg@5:0.38705
+[200]	train-ndcg@5:0.41747	validation-ndcg@5:0.39248
+[300]	train-ndcg@5:0.42853	validation-ndcg@5:0.39640
+[400]	train-ndcg@5:0.43774	validation-ndcg@5:0.39860
+[475]	train-ndcg@5:0.44376	validation-ndcg@5:0.39967
+validation: 0.3998257036909847, best_it: 445
+Training model 185/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.25947	validation-ndcg@5:0.25874
+[100]	train-ndcg@5:0.40275	validation-ndcg@5:0.38650
+[200]	train-ndcg@5:0.41791	validation-ndcg@5:0.39172
+[300]	train-ndcg@5:0.42879	validation-ndcg@5:0.39606
+[400]	train-ndcg@5:0.43793	validation-ndcg@5:0.39805
+[500]	train-ndcg@5:0.44584	validation-ndcg@5:0.39991
+[590]	train-ndcg@5:0.45258	validation-ndcg@5:0.40097
+validation: 0.40108150680818566, best_it: 560
+Training model 186/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.25947	validation-ndcg@5:0.25874
+[100]	train-ndcg@5:0.40261	validation-ndcg@5:0.38576
+[200]	train-ndcg@5:0.41788	validation-ndcg@5:0.39278
+[300]	train-ndcg@5:0.42830	validation-ndcg@5:0.39681
+[316]	train-ndcg@5:0.42996	validation-ndcg@5:0.39679
+validation: 0.39696324359159896, best_it: 287
+Training model 187/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.25947	validation-ndcg@5:0.25874
+[100]	train-ndcg@5:0.40359	validation-ndcg@5:0.38622
+[200]	train-ndcg@5:0.41835	validation-ndcg@5:0.39210
+[300]	train-ndcg@5:0.42912	validation-ndcg@5:0.39553
+[400]	train-ndcg@5:0.43802	validation-ndcg@5:0.39752
+[500]	train-ndcg@5:0.44587	validation-ndcg@5:0.39966
+[570]	train-ndcg@5:0.45187	validation-ndcg@5:0.40017
+validation: 0.4006617888019319, best_it: 541
+Training model 188/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 1, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.25947	validation-ndcg@5:0.25874
+[100]	train-ndcg@5:0.40345	validation-ndcg@5:0.38652
+[200]	train-ndcg@5:0.41802	validation-ndcg@5:0.39204
+[300]	train-ndcg@5:0.42869	validation-ndcg@5:0.39604
+[400]	train-ndcg@5:0.43807	validation-ndcg@5:0.39792
+[495]	train-ndcg@5:0.44573	validation-ndcg@5:0.39900
+validation: 0.3993287902101101, best_it: 465
+Training model 189/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0}
+[0]	train-ndcg@5:0.22434	validation-ndcg@5:0.22486
+[100]	train-ndcg@5:0.40272	validation-ndcg@5:0.38711
+[200]	train-ndcg@5:0.41751	validation-ndcg@5:0.39345
+[300]	train-ndcg@5:0.42809	validation-ndcg@5:0.39687
+[400]	train-ndcg@5:0.43705	validation-ndcg@5:0.39841
+[452]	train-ndcg@5:0.44123	validation-ndcg@5:0.39907
+validation: 0.3991578601127601, best_it: 423
+Training model 190/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 1, 'alpha': 0.5}
+[0]	train-ndcg@5:0.22434	validation-ndcg@5:0.22486
+[100]	train-ndcg@5:0.40303	validation-ndcg@5:0.38648
+[200]	train-ndcg@5:0.41750	validation-ndcg@5:0.39378
+[272]	train-ndcg@5:0.42589	validation-ndcg@5:0.39624
+validation: 0.3963213126802976, best_it: 243
+Training model 191/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0}
+[0]	train-ndcg@5:0.22434	validation-ndcg@5:0.22486
+[100]	train-ndcg@5:0.40232	validation-ndcg@5:0.38713
+[200]	train-ndcg@5:0.41709	validation-ndcg@5:0.39395
+[300]	train-ndcg@5:0.42766	validation-ndcg@5:0.39703
+[400]	train-ndcg@5:0.43705	validation-ndcg@5:0.39889
+[500]	train-ndcg@5:0.44532	validation-ndcg@5:0.40053
+[503]	train-ndcg@5:0.44556	validation-ndcg@5:0.40072
+validation: 0.40085878624617555, best_it: 474
+Training model 192/192 with params: {'max_depth': 4, 'min_child_weight': 5, 'gamma': 1, 'subsample': 0.85, 'colsample_bytree': 0.8, 'lambda': 0.5, 'alpha': 0.5}
+[0]	train-ndcg@5:0.22434	validation-ndcg@5:0.22486
+[100]	train-ndcg@5:0.40306	validation-ndcg@5:0.38629
+[200]	train-ndcg@5:0.41743	validation-ndcg@5:0.39277
+[300]	train-ndcg@5:0.42824	validation-ndcg@5:0.39642
+[400]	train-ndcg@5:0.43792	validation-ndcg@5:0.39842
+[500]	train-ndcg@5:0.44607	validation-ndcg@5:0.40038
+[508]	train-ndcg@5:0.44656	validation-ndcg@5:0.40016
+validation: 0.4004994182214612, best_it: 479
+     max_depth  min_child_weight  gamma  subsample  colsample_bytree  lambda  \
+121          6                 5      1       0.85               1.0     1.0   
+182          4                 5      1       1.00               0.8     0.5   
+173          4                 5      0       0.85               0.8     1.0   
+102          6                 5      0       1.00               0.8     0.5   
+139          4                10      0       0.85               1.0     0.5   
+
+     alpha  valid_ndcg@5  best_iteration  
+121    0.5      0.403629             327  
+182    0.0      0.403091             633  
+173    0.5      0.402947             690  
+102    0.0      0.402898             322  
+139    0.5      0.402846             702  
